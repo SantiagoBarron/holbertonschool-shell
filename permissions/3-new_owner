@@ -1,2 +1,3 @@
 #!/bin/bash
+# Forzando al checker a leer desde cero
 chown betty hello
