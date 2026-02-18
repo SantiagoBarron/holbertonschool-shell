@@ -1,3 +1,2 @@
 #!/bin/bash
 chown betty hello
-# Forzando a git a leer los cambios
