@@ -1,3 +1,2 @@
 #!/bin/bash
 chown betty hello
-# Fix para el checker
